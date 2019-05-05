@@ -1,0 +1,64 @@
+PODS:
+  - Alamofire (4.8.1)
+  - Freddy (3.0.3)
+  - Kingfisher (4.8.1)
+  - Moya/Core (10.0.2):
+    - Alamofire (~> 4.1)
+    - Result (~> 3.0)
+  - Moya/RxSwift (10.0.2):
+    - Moya/Core
+    - RxSwift (~> 4.0)
+  - Nimble (7.1.3)
+  - Quick (1.3.1)
+  - Result (3.2.4)
+  - RxAtomic (4.4.1)
+  - RxCocoa (4.4.1):
+    - RxSwift (~> 4.0)
+  - RxSwift (4.4.1):
+    - RxAtomic (~> 4.4)
+  - SnapKit (4.2.0)
+  - SwiftLint (0.27.0)
+
+DEPENDENCIES:
+  - Freddy
+  - Kingfisher
+  - Moya/RxSwift (~> 10.0)
+  - Nimble
+  - Quick
+  - RxCocoa (~> 4.0)
+  - RxSwift (~> 4.0)
+  - SnapKit (= 4.2.0)
+  - SwiftLint
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Freddy
+    - Kingfisher
+    - Moya
+    - Nimble
+    - Quick
+    - Result
+    - RxAtomic
+    - RxCocoa
+    - RxSwift
+    - SnapKit
+    - SwiftLint
+
+SPEC CHECKSUMS:
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  Freddy: 7c62db262a0d0e3b3e2b8b40f2c0cc51e122fbc4
+  Kingfisher: 868c1149679a7ab6869be118faa9b5aed154aaf0
+  Moya: 2b0531a9fef318e0bc484030c3db1e6f279ccb66
+  Nimble: 2839b01d1b31f6a6a7777a221f0d91cf52e8e27b
+  Quick: d17304d58d0d169dd0bd1c6e5c28e3318de32a1a
+  Result: d2d07204ce72856f1fd9130bbe42c35a7b0fea10
+  RxAtomic: f8d6adc1ccb87a767811269e4875887bc74dbf19
+  RxCocoa: 2f35a76bf8887872e28a1914112395b11b8e0e64
+  RxSwift: 92fcf68dfef21f3e2ab1965363d9e7b3d787597e
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  SwiftLint: 3207c1faa2240bf8973b191820a116113cd11073
+
+PODFILE CHECKSUM: 266c1c621f4a5dca4edb2e433d662737ea890476
+
+COCOAPODS: 1.5.3
